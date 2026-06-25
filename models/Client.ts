@@ -1,6 +1,7 @@
 import mongoose, { Schema } from "mongoose";
+import { IClient } from "@/types/client";
 
-const userSchema = new Schema(
+const clientSchema = new Schema<IClient>(
   {
     name: {
       type: String,
@@ -33,19 +34,17 @@ const userSchema = new Schema(
     role: {
       type: String,
       enum: ["user", "admin", "manager"],
-      default: "user",
+      required: true,
     },
     isActive: {
       type: Boolean,
       default: true,
     },
   },
-  {
-    timestamps: true,
-    collection: "details",
-  },
+  { timestamps: true },
 );
 
-const User = mongoose.models.User || mongoose.model("User", userSchema);
+const Client =
+  mongoose.models.Client || mongoose.model<IClient>("Client", clientSchema, "clients");
 
-export default User;
+export default Client;

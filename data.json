@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul1@example.com",
+    "password": "Rahul@123",
+    "age": 28,
+    "gender": "Male",
+    "city": "Hyderabad",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Priya Reddy",
+    "email": "priya2@example.com",
+    "password": "Priya@123",
+    "age": 25,
+    "gender": "Female",
+    "city": "Bengaluru",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Arjun Kumar",
+    "email": "arjun3@example.com",
+    "password": "Arjun@123",
+    "age": 30,
+    "gender": "Male",
+    "city": "Chennai",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "name": "Sneha Patel",
+    "email": "sneha4@example.com",
+    "password": "Sneha@123",
+    "age": 27,
+    "gender": "Female",
+    "city": "Mumbai",
+    "role": "user",
+    "isActive": false
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram5@example.com",
+    "password": "Vikram@123",
+    "age": 34,
+    "gender": "Male",
+    "city": "Pune",
+    "role": "manager",
+    "isActive": true
+  },
+  {
+    "name": "Anjali Verma",
+    "email": "anjali6@example.com",
+    "password": "Anjali@123",
+    "age": 29,
+    "gender": "Female",
+    "city": "Delhi",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Kiran Rao",
+    "email": "kiran7@example.com",
+    "password": "Kiran@123",
+    "age": 26,
+    "gender": "Male",
+    "city": "Vizag",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Meera Nair",
+    "email": "meera8@example.com",
+    "password": "Meera@123",
+    "age": 24,
+    "gender": "Female",
+    "city": "Kochi",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Rohit Joshi",
+    "email": "rohit9@example.com",
+    "password": "Rohit@123",
+    "age": 32,
+    "gender": "Male",
+    "city": "Jaipur",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Divya Iyer",
+    "email": "divya10@example.com",
+    "password": "Divya@123",
+    "age": 31,
+    "gender": "Female",
+    "city": "Coimbatore",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Amit Das",
+    "email": "amit11@example.com",
+    "password": "Amit@123",
+    "age": 36,
+    "gender": "Male",
+    "city": "Kolkata",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "name": "Pooja Sharma",
+    "email": "pooja12@example.com",
+    "password": "Pooja@123",
+    "age": 23,
+    "gender": "Female",
+    "city": "Lucknow",
+    "role": "user",
+    "isActive": false
+  },
+  {
+    "name": "Nikhil Jain",
+    "email": "nikhil13@example.com",
+    "password": "Nikhil@123",
+    "age": 29,
+    "gender": "Male",
+    "city": "Indore",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha14@example.com",
+    "password": "Neha@123",
+    "age": 28,
+    "gender": "Female",
+    "city": "Noida",
+    "role": "manager",
+    "isActive": true
+  },
+  {
+    "name": "Sandeep Yadav",
+    "email": "sandeep15@example.com",
+    "password": "Sandeep@123",
+    "age": 33,
+    "gender": "Male",
+    "city": "Patna",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Kavya Rao",
+    "email": "kavya16@example.com",
+    "password": "Kavya@123",
+    "age": 26,
+    "gender": "Female",
+    "city": "Mysuru",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Harish Reddy",
+    "email": "harish17@example.com",
+    "password": "Harish@123",
+    "age": 38,
+    "gender": "Male",
+    "city": "Warangal",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "name": "Sonia Kapoor",
+    "email": "sonia18@example.com",
+    "password": "Sonia@123",
+    "age": 27,
+    "gender": "Female",
+    "city": "Chandigarh",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "name": "Manoj Kumar",
+    "email": "manoj19@example.com",
+    "password": "Manoj@123",
+    "age": 35,
+    "gender": "Male",
+    "city": "Nagpur",
+    "role": "manager",
+    "isActive": false
+  },
+  {
+    "name": "Asha Menon",
+    "email": "asha20@example.com",
+    "password": "Asha@123",
+    "age": 30,
+    "gender": "Female",
+    "city": "Thiruvananthapuram",
+    "role": "user",
+    "isActive": true
+  }
+]

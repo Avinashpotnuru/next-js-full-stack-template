@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Super Administrator",
+    "role": "admin"
+  },
+  {
+    "name": "System Administrator",
+    "role": "admin"
+  },
+  {
+    "name": "Project Manager",
+    "role": "manager"
+  },
+  {
+    "name": "HR Manager",
+    "role": "manager"
+  },
+  {
+    "name": "Sales Manager",
+    "role": "manager"
+  },
+  {
+    "name": "Frontend Developer",
+    "role": "user"
+  },
+  {
+    "name": "Backend Developer",
+    "role": "user"
+  },
+  {
+    "name": "Full Stack Developer",
+    "role": "user"
+  },
+  {
+    "name": "UI/UX Designer",
+    "role": "user"
+  },
+  {
+    "name": "QA Engineer",
+    "role": "user"
+  },
+  {
+    "name": "DevOps Engineer",
+    "role": "user"
+  },
+  {
+    "name": "Business Analyst",
+    "role": "user"
+  },
+  {
+    "name": "Technical Lead",
+    "role": "manager"
+  },
+  {
+    "name": "Support Engineer",
+    "role": "user"
+  },
+  {
+    "name": "Database Administrator",
+    "role": "admin"
+  }
+]
