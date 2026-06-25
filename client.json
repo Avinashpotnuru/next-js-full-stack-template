@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "password": "Rahul@123",
+    "age": 28,
+    "gender": "Male",
+    "city": "Hyderabad",
+    "role": "user",
+    "isActive": true,
+    "createdAt": "2026-06-25T10:00:00.000Z",
+    "updatedAt": "2026-06-25T10:00:00.000Z"
+  },
+  {
+    "name": "Priya Reddy",
+    "email": "priya.reddy@example.com",
+    "password": "Priya@123",
+    "age": 25,
+    "gender": "Female",
+    "city": "Bengaluru",
+    "role": "user",
+    "isActive": true,
+    "createdAt": "2026-06-25T10:00:00.000Z",
+    "updatedAt": "2026-06-25T10:00:00.000Z"
+  },
+  {
+    "name": "Arjun Kumar",
+    "email": "arjun.kumar@example.com",
+    "password": "Arjun@123",
+    "age": 31,
+    "gender": "Male",
+    "city": "Chennai",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2026-06-25T10:00:00.000Z",
+    "updatedAt": "2026-06-25T10:00:00.000Z"
+  },
+  {
+    "name": "Sneha Patel",
+    "email": "sneha.patel@example.com",
+    "password": "Sneha@123",
+    "age": 27,
+    "gender": "Female",
+    "city": "Mumbai",
+    "role": "manager",
+    "isActive": true,
+    "createdAt": "2026-06-25T10:00:00.000Z",
+    "updatedAt": "2026-06-25T10:00:00.000Z"
+  },
+  {
+    "name": "Harish Reddy",
+    "email": "harish.reddy@example.com",
+    "password": "Harish@123",
+    "age": 38,
+    "gender": "Male",
+    "city": "Warangal",
+    "role": "admin",
+    "isActive": false,
+    "createdAt": "2026-06-25T10:00:00.000Z",
+    "updatedAt": "2026-06-25T10:00:00.000Z"
+  }
+]
